@@ -12,3 +12,9 @@ https://github.com/25161215-NguyenDacTrong/nhapmon-tkvm
 - Nguyễn Đắc Trọng (MSSV 25161215): tạo file 25161215.txt, commit 3 lần
 - Nguyễn Kiến Thức (MSSV 25161206): tạo file 25161206.txt, 1 commit
 - Trần Nguyễn Thái Châu (MSSV 25161105): tạo file 25161105.txt, 1 commit
+- Nhiệm vu:
+Nguyễn Đắc Trọng :code , suy nghĩ quản lý team , tạo file
+Trần Nguyễn Thái Châu : hỗ trợ tìm thông tin
+Nguyễn Kiến Thức : code
+Nguyễn Gia Bảo : tìm hiểu code
+Nguyễn Anh Khôi : tạo file repo
